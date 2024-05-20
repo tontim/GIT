@@ -1,4 +1,5 @@
 ﻿/* 
+
 Valde att göra en liknande meny jag lärde mig göra under testveckorna. 
 Uppgift 1: 
 I programmet behövs bara min class jag valt namnge "Program" som innehåller funktionerna.
