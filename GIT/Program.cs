@@ -73,8 +73,11 @@ namespace GIT
                     register[registerCount] = $"{name}, Lön: {salary}";
                     registerCount++;
                 }
+                else
+                {
+                    Console.WriteLine("Full lista!");
+                }
                 
-                Console.WriteLine("Ange lön:");
             }
 
             static void showRegister()
