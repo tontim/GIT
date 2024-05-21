@@ -14,7 +14,7 @@ showRegister för att skriva ut personer som lagts till i arrayen.
 
 Programmet är framtidssäkrat till 100 personer pga begränsningen i hur arrayer fungerar, 
 har inte lärt mig använda List<string> för dynamiska arrayer än. :)
-
+t
  */
 
 namespace GIT
